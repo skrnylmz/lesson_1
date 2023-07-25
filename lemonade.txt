@@ -4,3 +4,4 @@ limonata tarifi
 3.nane
 4.bal
 5.bardak
+6.line for conflict.
